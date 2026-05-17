@@ -29,4 +29,4 @@ jobs:
         with:
           app-name: 'ayan5'
           slot-name: 'Production'
-          package: .
+          package: './AyanPortfolio'
